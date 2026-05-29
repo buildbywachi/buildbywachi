@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋 I'm buildbywachi
 
-<!--
-**buildbywachi/buildbywachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 Agentic Builder  
+✨ Building smart experiences with AI
 
-Here are some ideas to get you started:
+## 🚀 Currently Working On
+- AI Chatbot Projects
+- Agentic AI
+- Prompt Engineering
+- Smart Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Python
+- GitHub
+- Botnoi Platform
+- OpenAI API
+- HTML/CSS
+
+## 🌱 Currently Learning
+- AI Agents
+- RAG Systems
+- Full Stack Development
